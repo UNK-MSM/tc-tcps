@@ -1,0 +1,223 @@
+
+            .breadcrumb {
+                padding: 10px 0 10px;
+            }
+            .page-header {
+                height: 55px;
+            }
+            .page-content {
+                padding: 5px 0;
+            }
+            .page-logo{
+                margin-top: 0px;
+                margin-right: 20px;
+            }
+            .page-header .page-header-menu .hor-menu .navbar-nav>li>a {
+                padding: 16px 10px 15px;
+            }
+            .page-header .page-header-menu {
+                background: #0f0f0f;
+            }
+            .page-header .page-header-menu .hor-menu .navbar-nav>li>a,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li>a>i {
+                color: #c7b37e;
+            }
+            .page-header,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li>a:hover,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li:hover>a,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li.active>a,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li.active>a:hover {
+                color: #000;
+                background: rgba(211, 158, 60, 0.97)!important;
+                /*background: #c7b37e!important;*/
+            }
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li>a,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li>a>i,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li:hover>a>i,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li>a:hover>i {
+                color: #ddc993;
+                /*color: #000;*/
+            }
+            .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a>i,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li.active>a>i,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li:hover>a>i,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li.active>a:hover>i,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover>i {
+                color: #000;
+            }
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li>a:hover,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li:hover>a {
+                color: #ddc993;
+                background: #0f0f0f!important;
+            }
+            .form .form-body,
+            .portlet-form .form-body,
+            .form .form-actions,
+            .portlet-form .form-actions {
+                padding-bottom: 0px;
+            }
+            .pagination-panel-input, .pagination-panel > a,
+            .dataTables_length select {
+                height: 25px;
+                padding-top: 2px;
+                padding-bottom: 0px;
+            }
+            .dataTables_info {
+                font-size: 13px;
+            }
+            .dataTables_extended_wrapper .table.dataTable {
+                margin: 0px 0!important; 
+            }
+            .dataTables_extended_wrapper div.dataTables_paginate {
+                display:  block;
+            }
+            .table-scrollable>.table>thead>tr>th {
+                height: 12px;
+            }
+
+
+            .table td, .table th {
+                font-size: 12px;
+            }
+            .input-sm, select.input-sm {
+                height: 25px;
+                padding: 2px 10px;
+            }
+            .btn-sm {
+                height: 25px;
+                padding: 2px 10px;
+            }
+            .select2-container {
+                /*height: 25px;*/
+            }
+            .select2-container .selection .select2-selection {
+                font-size: 12px;
+                /*height: 25px;*/
+                padding-top: 2px;
+            }
+            .select2-container .selection .select2-selection--single {
+                height: 25px;
+            }
+            .select2-container .selection .select2-selection--multiple {
+                min-height: 20px;
+            }
+            .select2-container--bootstrap .select2-selection--multiple .select2-search--inline .select2-search__field
+            {
+                height: 20px;
+            }
+            .select2-container--bootstrap .select2-selection--multiple .select2-selection__choice
+            {
+                margin-bottom: 5px;
+            }
+            .select2-results__option {
+                font-size: 12px;
+            }
+            .input-icon>i {
+                margin-top: 6px;
+            }
+            .fileinput .form-control {
+                padding-top: 1px;
+            }
+            .bootstrap-switch .bootstrap-switch-handle-on, .bootstrap-switch .bootstrap-switch-handle-off, .bootstrap-switch .bootstrap-switch-label{
+                padding: 2px 12px;
+            }
+            .bootstrap-switch {
+                height: 25px;
+            }
+            .input-group-addon {
+                padding: 2px 12px;
+            }
+            
+
+            .container {
+                width: 100%;
+            }
+
+            #ajax_datatable .highlighted {
+                background-color: #fbe1e3;
+                border-color: #fbe1e3;
+                color: #e73d4a;
+            }
+
+            #ajax_datatable .highlighted td.sorting_1 {
+                background-color: #fbf1f2!important;
+            }
+            .select2-container--bootstrap .select2-results__group {
+                color: #E26A6A;
+            }
+            .label {
+                font-size: 12px;
+            }
+
+            body, h1, h2, h3, h4, h5, h6, .popover, .tooltip,
+            .select2-container--bootstrap .select2-selection,
+            .page-header .page-header-menu .hor-menu .navbar-nav>li .dropdown-menu li>a,
+            .select2-container--bootstrap .select2-results__group {
+                font-family: "Droid Arabic Kufi",sans-serif;
+            }
+
+            .switch-field {
+                font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+                
+                overflow: hidden;
+            }
+
+            .switch-title {
+                    margin-bottom: 6px;
+            }
+
+            .switch-field input {
+                position: absolute !important;
+                clip: rect(0, 0, 0, 0);
+                height: 1px;
+                width: 1px;
+                border: 0;
+                overflow: hidden;
+            }
+
+            .switch-field label {
+                    float: left;
+            }
+
+            .switch-field label {
+                display: inline-block;
+                width: 60px;
+                background-color: #fff;
+                color: rgba(0, 0, 0, 0.6);
+                font-size: 14px;
+                font-weight: normal;
+                text-align: center;
+                text-shadow: none;
+                padding: 2px 14px;
+                border: 1px solid rgba(0, 0, 0, 0.2);
+                -webkit-transition: all 0.1s ease-in-out;
+                -moz-transition:    all 0.1s ease-in-out;
+                -ms-transition:     all 0.1s ease-in-out;
+                -o-transition:      all 0.1s ease-in-out;
+                transition:         all 0.1s ease-in-out;
+                -webkit-user-select: none; /* Chrome/Safari */        
+                -moz-user-select: none; /* Firefox */
+                -ms-user-select: none; /* IE10+ */
+            }
+
+            .switch-field label:hover {
+                    cursor: pointer;
+            }
+
+            .switch-field input:checked + label {
+                background-color: #337ab7;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                color: #fff;
+            }
+
+            .switch-field label:first-of-type {
+                    border-radius: 4px 0 0 4px;
+            }
+
+            .switch-field label:last-of-type {
+                    border-radius: 0 4px 4px 0;
+            }

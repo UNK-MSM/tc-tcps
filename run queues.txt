@@ -1,0 +1,3 @@
+sudo supervisord
+sudo supervisorctl reread
+sudo supervisorctl reload
